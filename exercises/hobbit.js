@@ -23,18 +23,4 @@ class Hobbit {
   }
 }
 
-
-
-
-//     if (this.birthday < 3) {
-//       this.birthday++
-//     } else {
-//       this.age = 3;
-//     }
-//   }
-//
-// }
-
-
-
 module.exports = Hobbit
